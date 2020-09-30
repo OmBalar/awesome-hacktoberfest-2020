@@ -99,6 +99,7 @@
 - [Pyrogram: Telegram API Framework in Python & C](https://github.com/pyrogram/pyrogram)
 - [Vue-Playground](https://github.com/runyasak/vue-playground)
 - [simC](https://github.com/cimplec/sim-c)
+- [Project-Books](https://github.com/Project-Books/book-project)
 
 ## Guides and Resources
 
